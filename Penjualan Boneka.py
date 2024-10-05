@@ -10,4 +10,4 @@ elif x <=50:
     print("total",x*18000)
 else:
     print("harga per boneka Rp 17000")
-    print("total",x*17000
+    print("total",x*17000)
